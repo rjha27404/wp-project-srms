@@ -1,5 +1,5 @@
                                                 
-                                                      Student Result Management System
+                                                     Student Result Management System
                                                 
   Project Explanation:
   
@@ -35,6 +35,7 @@
   Project Deomonstration:
   
       
+
       ![Screenshot (372)](https://user-images.githubusercontent.com/65777075/189820923-dbd72cfd-dd7c-443e-a7a3-e5244a996ed4.png)
 
       ![Screenshot (373)](https://user-images.githubusercontent.com/65777075/189820977-21ab6298-c0f6-40b7-a273-b536f4ad7dd3.png)
